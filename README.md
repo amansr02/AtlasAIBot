@@ -3,7 +3,7 @@ Simple, Selenium Bot to scrape courses and generate Sqlite3 Database.
 
 Requires "login.txt". 
 Format:
->username
+>username<br>
 >password (base64 encoded)
 
 Things to Improve: 
