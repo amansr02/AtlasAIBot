@@ -1,5 +1,5 @@
 # AtlasAIBot
-Simple, Selenium Bot to scrape courses and generate Sqlite3 Database.
+Simple, Selenium Bot to scrape umich courses from https://atlas.ai.umich.edu/ and generate Sqlite3 Database.
 
 Requires "login.txt". 
 Format:
